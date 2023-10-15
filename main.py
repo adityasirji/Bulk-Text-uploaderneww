@@ -31,7 +31,7 @@ API_ID = 24250238
 API_HASH = "cb3f118ce5553dc140127647edcf3720"
 BOT_TOKEN = "5970237571:AAFfzAJuBgcAZM4myoHPw9YwYqW0ztvOvkE"
 AUTH_USERS = 6175650047
-sudo_users = [818269274]
+sudo_users = [6175650047]
 bot = Client(
     "bot",
     bot_token=BOT_TOKEN,
